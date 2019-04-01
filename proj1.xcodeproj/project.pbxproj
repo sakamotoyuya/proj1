@@ -12,6 +12,7 @@
 		9648386B2249159700B4D6D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 964838692249159700B4D6D2 /* Main.storyboard */; };
 		9648386D2249159A00B4D6D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9648386C2249159A00B4D6D2 /* Assets.xcassets */; };
 		964838702249159A00B4D6D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9648386E2249159A00B4D6D2 /* LaunchScreen.storyboard */; };
+		96E044E12250EEF0003E719F /* ArcTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E044E02250EEF0003E719F /* ArcTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9648386C2249159A00B4D6D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9648386F2249159A00B4D6D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		964838712249159A00B4D6D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96E044E02250EEF0003E719F /* ArcTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9648386C2249159A00B4D6D2 /* Assets.xcassets */,
 				9648386E2249159A00B4D6D2 /* LaunchScreen.storyboard */,
 				964838712249159A00B4D6D2 /* Info.plist */,
+				96E044E02250EEF0003E719F /* ArcTest.swift */,
 			);
 			path = proj1;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				964838682249159700B4D6D2 /* ViewController.swift in Sources */,
 				964838662249159700B4D6D2 /* AppDelegate.swift in Sources */,
+				96E044E12250EEF0003E719F /* ArcTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
