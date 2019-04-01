@@ -17,6 +17,7 @@ class ArcTest: NSObject {
         a!.b = b
         b!.a = a
     }
+    deinit { print("ArcTestを解放しました") }
 }
 
 class A {
